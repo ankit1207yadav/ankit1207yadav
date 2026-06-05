@@ -375,7 +375,7 @@ print(ankit.current_work())
 
 ### 🌿 Plant Disease Detection via CNN
 
-<img align="right" src="https://img.shields.io/badge/Status-Deployed-00C853?style=flat-square"/>
+<img align="right" src="https://img.shields.io/badge/Status-Active-0080FF?style=flat-square"/>
 
 > **Deep learning computer vision system** that diagnoses crop diseases from leaf images with high precision — enabling early intervention for precision agriculture.
 
@@ -391,7 +391,7 @@ print(ankit.current_work())
 
 ### 📰 Fake News Detection System
 
-<img align="right" src="https://img.shields.io/badge/Status-Production_Ready-00C853?style=flat-square"/>
+<img align="right" src="https://img.shields.io/badge/Status-Active-0080FF?style=flat-square"/>
 
 > **NLP-powered misinformation classifier** using transformer-based text representations to identify and flag unreliable news content at scale.
 
@@ -423,7 +423,7 @@ print(ankit.current_work())
 
 ### 🏥 Digital Health Record System
 
-<img align="right" src="https://img.shields.io/badge/Status-Complete-00C853?style=flat-square"/>
+<img align="right" src="https://img.shields.io/badge/Status-Active-0080FF?style=flat-square/>
 
 > **Secure, AI-assisted healthcare record management system** with smart search, summarization, and structured storage of patient data.
 
