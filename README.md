@@ -423,7 +423,7 @@ print(ankit.current_work())
 
 ### 🏥 Digital Health Record System
 
-<img align="right" src="https://img.shields.io/badge/Status-Active-0080FF?style=flat-square/>
+<img align="right" src="https://img.shields.io/badge/Status-Active-0080FF?style=flat-square"/>
 
 > **Secure, AI-assisted healthcare record management system** with smart search, summarization, and structured storage of patient data.
 
