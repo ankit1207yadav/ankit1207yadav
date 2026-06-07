@@ -396,8 +396,8 @@ print(ankit.current_work())
 > **Machine Learning-based text classifier** that leverages Natural Language Processing techniques to identify and filter unwanted SMS and email messages with high precision.
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![NLTK](https://img.shields.io/badge/-HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![Streamlit](https://img.shields.io/badge/-BERT-FF6B35?style=flat-square)
+![NLTK](https://img.shields.io/badge/-NLTK-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![Streamlit](https://img.shields.io/badge/-Streamlit-FF6B35?style=flat-square)
 ![NLP](https://img.shields.io/badge/-NLP-7b2fff?style=flat-square)
 ![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 
