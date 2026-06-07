@@ -389,19 +389,19 @@ print(ankit.current_work())
 
 ---
 
-### 📰 Fake News Detection System
+### 📩  SMS Spam Detection System
 
-<img align="right" src="https://img.shields.io/badge/Status-Active-0080FF?style=flat-square"/>
+<img align="right" src="https://img.shields.io/badge/Status-Deploy-0080FF?style=flat-square"/>
 
-> **NLP-powered misinformation classifier** using transformer-based text representations to identify and flag unreliable news content at scale.
+> **Machine Learning-based text classifier** that leverages Natural Language Processing techniques to identify and filter unwanted SMS and email messages with high precision.
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/-HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![BERT](https://img.shields.io/badge/-BERT-FF6B35?style=flat-square)
+![NLTK](https://img.shields.io/badge/-HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![Streamlit](https://img.shields.io/badge/-BERT-FF6B35?style=flat-square)
 ![NLP](https://img.shields.io/badge/-NLP-7b2fff?style=flat-square)
 ![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 
-**Highlights:** BERT fine-tuning · TF-IDF + semantic embeddings · 95%+ accuracy · Real-time inference pipeline
+**Highlights:** TF-IDF Vectorization · Porter Stemming · Multinomial Naive Bayes · 97.03% Accuracy · Real-Time Spam Detection
 
 ---
 
